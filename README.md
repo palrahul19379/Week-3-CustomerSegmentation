@@ -1,2 +1,2 @@
-# Week-3-CustomerSegmentation
-Customer Segmentation project using Machine Learning and K-Means Clustering to group customers based on their purchasing behavior and demographic characteristics.
+# Week-3-Customer-Segmentation
+Customer segmentation project using unsupervised learning techniques. K-Means and Agglomerative Hierarchical Clustering were applied to the Mall Customers dataset to identify meaningful customer segments based on age, annual income, and spending score.
